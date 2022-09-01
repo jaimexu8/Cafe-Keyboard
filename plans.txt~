@@ -1,4 +1,23 @@
+Modes
+- Regular typing: MonkeyType style, centered, centered paragraph that fades
+  into the bottom
+- Limitless typing: Infinite typing, can be ended with a keyboard shortcut
+- Typing race: Cats race in cars/canoes/etc. based on typing speed, can
+  incorporate bots with randomized speeds
+- Boxing: 1v1 style gamemode, player who types passage faster throws the punch
+
 Features
-Leaderboard
+- Store: Currency acquired by playing modes, purchaseable items may include
+  characters, themes, music, etc.
+- Leaderboard: Displays top scores of each typing mode
+- Light/dark mode themes come default
+
+Design
+- Learn to draw in ProCreate
+- Design website icons and graphics
+
+Sound
+- Utilize royalty-free sound effects
+- Either find royalty-free songs or ask Aaron Turley to compose some
 
 Cat clicker game

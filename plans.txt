@@ -1,6 +1,6 @@
 Modes
 - Regular typing: MonkeyType style, centered, centered paragraph that fades
-  into the bottom
+  into the bottom, current letter character blinking and underlined
 - Limitless typing: Infinite typing, can be ended with a keyboard shortcut
 - Typing race: Cats race in cars/canoes/etc. based on typing speed, can
   incorporate bots with randomized speeds
@@ -11,6 +11,9 @@ Features
   characters, themes, music, etc.
 - Leaderboard: Displays top scores of each typing mode
 - Light/dark mode themes come default
+
+Layout
+- Navigation bar: sign in, stats, etc.
 
 Design
 - Learn to draw in ProCreate
