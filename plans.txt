@@ -16,11 +16,10 @@ Layout
 - Navigation bar: sign in, stats, etc.
 
 Design
-- Learn to draw in ProCreate
-- Design website icons and graphics
+- Design website icons and graphics with ProCreate
 
 Sound
 - Utilize royalty-free sound effects
-- Either find royalty-free songs or ask Aaron Turley to compose some
+- Find royalty-free music
 
 Cat clicker game
